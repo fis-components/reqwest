@@ -1,0 +1,11 @@
+{
+    "name": "reqwest",
+    "description": "A wrapper for asynchronous http requests",
+    "repos": "https://github.com/ded/reqwest.git",
+    "main": {
+        "xhr2": false
+    },
+    "tag": "master",
+    "reposType": "npm",
+    "version": "2.0.3"
+}
